@@ -1,6 +1,6 @@
 # IQA‑DCT‑SOM
 
-This repository contains the code for **No-Reference Image Quality Assessment (IQA)** using **DCT features** and **SOM clustering**. The code is part of the experiments in our article but is organized here for easy use and reproducibility.
+This repository contains the code for **No-Reference Image Quality Assessment Based on DCT and SOM clustering**. The code is part of the experiments in our article but is organized here for easy use and reproducibility.
 
 ## Run in Colab
 You can run the notebook directly in Google Colab:  
